@@ -1,4 +1,4 @@
-# Call of SSH 
+# SSH_TALK
 
 > A fully decentralized, peer-to-peer, end-to-end encrypted terminal messaging application. 
 
